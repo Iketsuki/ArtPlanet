@@ -5,3 +5,5 @@ https://www.jqueryscript.net/tags.php?/Tag%20Cloud/
 https://www.cssscript.com/demo/animated-sphere-tag-cloud/
 https://shaktisinghcheema.com/interactive-globe-in-background-of-website/
 https://cssanimation.rocks/spheres/
+glass cracking
+https://codepen.io/Birky/pen/KJFiq
