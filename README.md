@@ -1,2 +1,2 @@
-# MyStory
+# ArtPlanet
 created by Ikestuki
